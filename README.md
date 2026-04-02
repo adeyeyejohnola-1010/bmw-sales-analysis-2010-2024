@@ -42,6 +42,7 @@ Africa contributes the least to overall sales
 
 **Yearly Sales Trend**
 
+
 <img width="380" height="205" alt="1" src="https://github.com/user-attachments/assets/38956d15-f60d-4ff8-82b5-4f4e738f9427" />
 
 Sales remained stable between 2010 and 2016 
