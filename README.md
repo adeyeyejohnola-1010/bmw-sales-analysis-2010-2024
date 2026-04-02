@@ -13,6 +13,7 @@ Fuel types (Petrol, Diesel, Hybrid, Electric)
 Customer transmission preferences (Manual vs Automatic) 
 Pricing segments and color preferences 
 This data tells a story of how market demand evolves across regions, technologies, and customer behavior over time
+
 **Data Processing**
 
 I carried out several data preparation steps to ensure accuracy and usability:
@@ -21,12 +22,14 @@ Standardized categorical variables
 Structured the dataset for efficient dashboard reporting in Excel 
 
 **Pre-Analysis**
+
 Before building the dashboard, I explored the dataset to understand its structure and identify initial patterns:
 Verified total sales volume and distribution across years 
 Identified key variables that influence sales (region, model, fuel type)
 This stage helped define the direction of the analysis and the layout of the dashboard.
 
 **In-Analysis**
+
 **Regional Sales Performance**
 <img width="367" height="220" alt="3" src="https://github.com/user-attachments/assets/b0ff1bc0-c2c9-43ee-939b-10a9ef8f8cc0" />
 
