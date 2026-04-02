@@ -157,7 +157,6 @@ Bar charts for model performance and regional comparison
 
 Slicers for dynamic filtering (e.g., color preferences) 
 
-The dashboard allows users to explore data intuitively and make informed decisions.
 
 **Observations**
 
