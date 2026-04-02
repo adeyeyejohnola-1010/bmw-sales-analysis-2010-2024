@@ -161,13 +161,13 @@ The dashboard allows users to explore data intuitively and make informed decisio
 
 **Observations**
 
-	Sales are globally diversified but led by Asia 
+Sales are globally diversified but led by Asia 
 	
-	Hybrid vehicles are becoming the dominant fuel type 
+Hybrid vehicles are becoming the dominant fuel type 
 	
-	Mid-range luxury vehicles generate the most revenue 
+Mid-range luxury vehicles generate the most revenue 
 	
-	Customer preferences (transmission, color, model) vary significantly by region 
+Customer preferences (transmission, color, model) vary significantly by region 
 	
 **Recommendations**
 
